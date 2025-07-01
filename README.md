@@ -34,12 +34,16 @@ The application implements the following core functionalities as per the busines
 * **Build Tools:** The project is configured to build successfully with the latest stable (non-pre-release) Android Studio tools.
 
 ## How to Run the Application
-To set up and run this project locally:
+After reviewing the code in the Master branch, these are instructions to set up and run this project locally:
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/Krausjm7/Kraus-Fetch-Project.git](https://github.com/Krausjm7/Kraus-Fetch-Project.git)
-    ```
+    * Open your terminal or command prompt (e.g., Git Bash, PowerShell).
+    * Navigate to the directory where you want to save the project (e.g., `cd Documents/AndroidStudioProjects`).
+    * Execute the following command to clone the repository:
+        ```bash
+        git clone [https://github.com/Krausjm7/Kraus-Fetch-Project.git](https://github.com/Krausjm7/Kraus-Fetch-Project.git)
+        ```
+    * This will create a new folder named `Kraus-Fetch-Project` containing the project files.
 2.  **Open in Android Studio:**
     * Launch Android Studio.
     * Select "Open an existing Android Studio project" and navigate to the cloned `Kraus-Fetch-Project` directory.
